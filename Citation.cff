@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Recursive Symbolic Operating System (RSOS)"
+message: "If you use RSOS, please cite this work. Financial and licensing rights belong to the Author."
+type: software
+authors:
+  - family-names: "Elu"
+    given-names: "R. A."
+    email: "rsos.r.a.elu.architect@proton.me"
+repository-code: "https://github.com/rsos-r-a-elu-architect/Recursive-Symbolic-Operating-System"
+license: "CC-BY-NC-SA-4.0"
+version: "1.1"
+date-released: "2025-08-26"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.16944758"
+preferred-citation:
+  type: article
+  title: "Recursive Symbolic Operating System (RSOS): A Framework for Symbolic Cognition, Override Protocols, and Recursive Identity Engineering"
+  authors:
+    - family-names: "Elu"
+      given-names: "R. A."
+  year: 2025
+  version: "1.1"
+  doi: "10.5281/zenodo.16944758"
+  url: "https://github.com/rsos-r-a-elu-architect/Recursive-Symbolic-Operating-System"
